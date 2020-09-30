@@ -1,2 +1,2 @@
-# demo
-First website. Understanding html and css.
+# Demo Website
+First website. Understanding HTML and CSS.
